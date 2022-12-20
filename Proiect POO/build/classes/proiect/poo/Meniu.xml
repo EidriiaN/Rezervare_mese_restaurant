@@ -1,0 +1,42 @@
+<meniu>
+    <produs>
+        <nume>Supa de galuste</nume>
+        <tip>Felul 1</tip>
+        <pret>13.99</pret>
+    </produs>
+    <produs>
+        <nume>Ciorba de legume</nume>
+        <tip>Felul 1</tip>
+        <pret>12.00</pret>
+    </produs>
+    <produs>
+        <nume>Friptura de porc</nume>
+        <tip>Felul 2</tip>
+        <pret>20.49</pret>
+    </produs>
+    <produs>
+        <nume>Pui la rotisor</nume>
+        <tip>Felul 2</tip>
+        <pret>24.99</pret>
+    </produs>
+    <produs>
+        <nume>Papanasi</nume>
+        <tip>Desert</tip>
+        <pret>14.99</pret>
+    </produs>
+    <produs>
+        <nume>Ecler</nume>
+        <tip>Desert</tip>
+        <pret>7.00</pret>
+    </produs>
+    <produs>
+        <nume>Apa plata</nume>
+        <tip>Bautura</tip>
+        <pret>4.99</pret>
+    </produs>
+    <produs>
+        <nume>Coca-Cola</nume>
+        <tip>Bautura</tip>
+        <pret>6.99</pret>
+    </produs>
+</meniu>

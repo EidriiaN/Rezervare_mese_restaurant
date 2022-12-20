@@ -1,0 +1,26 @@
+<rezervari>
+    <rezervare>
+        <persoana>
+            <nume>Corneanu</nume>
+            <prenume>Gigel</prenume>
+            <nrTelefon>0752214113</nrTelefon>
+        </persoana>
+        <nrPersoane>4</nrPersoane>
+        <data>23/07/2022</data>
+        <ora>15:30</ora>
+        <masa>1</masa>
+        <preComanda></preComanda>
+    </rezervare>
+    <rezervare>
+        <persoana>
+            <nume>Florin</nume>
+            <prenume>Piersic</prenume>
+            <nrTelefon>0734156915</nrTelefon>
+        </persoana>
+        <nrPersoane>6</nrPersoane>
+        <data>23/07/2022</data>
+        <ora>12:00</ora>
+        <masa>2</masa>
+        <preComanda></preComanda>
+    </rezervare>
+</rezervari>
